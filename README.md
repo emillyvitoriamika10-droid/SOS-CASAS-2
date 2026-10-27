@@ -1,2 +1,2 @@
 # SOS-CASAS-2
-Site oficial do projeto SR Casas
+Site oficial do projeto Sos Casas
